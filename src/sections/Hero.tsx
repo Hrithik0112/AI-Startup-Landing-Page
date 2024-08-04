@@ -32,7 +32,7 @@ const Hero = () => {
         <div className="h-2 w-2 rounded-full bg-white absolute left-full top-1/2 -translate-x-1/2 -translate-y-1/2"></div>
       </div>
       {/* rign 3 end */}
-      <div className="container relative">
+      <div className="container relative mt-16">
         <h1 className="text-8xl md:text-[168px] md:leading-none font-semibold tracking-tighter bg-white bg-[radial-gradient(100%_100%_at_top_left,white,white,rgb(74,32,138,.5))] text-transparent bg-clip-text text-center">
           AI SEO
         </h1>
